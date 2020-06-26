@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Мила Музычук](https://up.htmlacademy.ru/javascript/20/user/359641).
-* Наставник: `Неизвестно`.
+* Наставник: `Игорь Тараканов`.
 
 ---
 
